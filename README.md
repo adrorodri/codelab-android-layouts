@@ -81,7 +81,6 @@ Agregaremos el siguiente XML del LinearLayout debajo de nuestro ImageView del hi
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/hippo"
-        android:layout_marginBottom="123dp"
         android:orientation="vertical"
         android:padding="20dp">
 
